@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import aboutPhoto from './assets/src/assets/graduation.jpg.jpeg'
+import aboutPhoto from './assets/graduation.jpg.jpeg''
 import profilePhoto from './assets/profile-photo.png'
 import educationPhoto from './assets/education-photo.jpg'
 import interestsPhoto from './assets/interests-photo.jpg'
